@@ -1,0 +1,6 @@
+{
+  "name": "Smart Library — Цифрлық кітапхана",
+  "description": "Заманауи колледж кітапханасы: AI ақылды іздеу, кітаптар каталогы және кітапханашының автоматтандырылған жұмыс орны.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
